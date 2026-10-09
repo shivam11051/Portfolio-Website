@@ -74,7 +74,7 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#" onClick={(e) => { e.preventDefault(); alert("Resume will be uploaded soon!"); }}>
+      <a className="resume-button" href="/Resume_Shivam_Mishra.html" target="_blank">
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
