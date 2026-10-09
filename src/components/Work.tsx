@@ -68,7 +68,7 @@ const Work = () => {
               tools: "React 18, Node.js, Express.js, Solidity (Ethereum Sepolia), Gemini AI, Leaflet",
               description: "A conversational AI assistant and local market intelligence platform for rural micro-entrepreneurs. Integrates satellite maps and blockchain for low-friction government loan referrals.",
               link: "https://github.com/shivam11051", 
-              image: "/images/placeholder.webp"
+              image: "/images/udyamai.png"
             },
             {
               name: "BlockChit",
