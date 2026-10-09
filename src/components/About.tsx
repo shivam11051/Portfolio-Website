@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am an entrepreneur and CSE Student currently running a car rental business, managing operations, customer relations, and day-to-day logistics.
+          I’m Shivam Mishra, a founder and software engineer building at the intersection of SaaS, AI, and technology. I’m currently building UrbaMart while continuing to strengthen my engineering capabilities and exploring opportunities to build impactful software at scale.
           <br /><br />
-          Alongside my business journey, I am a Computer Science Engineering student with a strong foundation in subjects such as blockchain, front-end, Data Structures, and love coding and building innovative projects. I am passionate about technology, software development, and learning how systems work at both practical and theoretical levels.
+          Currently pursuing my B.Tech in Computer Science and Engineering at Bennett University, I balance my academic journey with hands-on entrepreneurial experience. I have built scalable platforms like UrbaMart, a B2B wholesale commerce SaaS platform, and UdyamAI, an AI-powered business advisory platform.
           <br /><br />
-          By combining real-world business experience with technical knowledge, I aim to build scalable, technology-driven solutions and grow as a future tech entrepreneur and software professional.
+          By combining my real-world business acumen as a founder with deep technical expertise in modern full-stack technologies (React, Node.js, Cloud, Web3), I aim to drive innovation, deliver high-impact software, and lead technology-driven ventures.
         </p>
       </div>
     </div>

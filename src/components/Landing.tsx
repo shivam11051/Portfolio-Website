@@ -15,15 +15,13 @@ const Landing = ({ children }: PropsWithChildren) => {
             </h1>
           </div>
           <div className="landing-info">
-            <h3>A Full Stack</h3>
-            <h2 className="landing-info-h2">
-              <div className="landing-h2-1">Blockchain</div>
-              <div className="landing-h2-2">Developer</div>
+            <h3 style={{ fontSize: '24px', marginBottom: '10px' }}>Founder. Engineer. Builder.</h3>
+            <h2 className="landing-info-h2" style={{ fontSize: '20px', lineHeight: '1.4', fontWeight: '400', maxWidth: '600px' }}>
+              I build software products that solve real-world problems — from full-stack applications and SaaS platforms to AI-powered systems.
             </h2>
-            <h2>
-              <div className="landing-h2-info">Developer</div>
-              <div className="landing-h2-info-1">AI Expert</div>
-            </h2>
+            <div style={{ marginTop: '20px', fontSize: '16px', color: 'var(--accentColor)', fontWeight: '500' }}>
+              Open to select engineering and AI opportunities.
+            </div>
           </div>
         </div>
         {children}
